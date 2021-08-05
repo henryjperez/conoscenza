@@ -6,3 +6,6 @@
 
 * [Introduction](./js/README.md)
 * [Syntax](./js/syntax.md)
+
+## OPP
+* [Class](./js/classes.md)
