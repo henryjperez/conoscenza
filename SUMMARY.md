@@ -17,7 +17,7 @@
     * [Text-JS](https://henryjperez.github.io/text-js/)
 * [Untitled](welcome/untitled.md)
 
-### Contact Us
+## Contact Us
 
 * [Text-JS](https://henryjperez.github.io/text-js/)
 
