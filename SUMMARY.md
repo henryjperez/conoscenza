@@ -14,9 +14,10 @@
 * [about](welcome/about/README.md)
   * [Bienvenido a la sección en Español](welcome/about/es.md)
   * [Contact Us](welcome/about/contact_us.md)
+    * [Text-JS](https://henryjperez.github.io/text-js/)
 * [Untitled](welcome/untitled.md)
 
-## Contact Us
+### Contact Us
 
 * [Text-JS](https://henryjperez.github.io/text-js/)
 
